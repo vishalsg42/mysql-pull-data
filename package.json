@@ -1,0 +1,27 @@
+{
+  "name": "mysql-pull-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsg42/mysql-pull-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsg42/mysql-pull-data/issues"
+  },
+  "homepage": "https://github.com/vishalsg42/mysql-pull-data#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "json2xls": "^0.1.2",
+    "mysql2": "^2.3.3",
+    "xlsx": "^0.18.5"
+  }
+}
